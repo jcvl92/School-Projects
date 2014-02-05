@@ -1,0 +1,29 @@
+/*
+To run the program:
+    % g++ -pedantic -std=c++0x -Wall Collatz.c++ RunCollatz.c++ -o RunCollatz
+    % valgrind RunCollatz < RunCollatz.in > RunCollatz.out
+
+To configure Doxygen:
+    % doxygen -g
+That creates the file "Doxyfile".
+Make the following edits:
+    EXTRACT_ALL            = YES
+    EXTRACT_PRIVATE        = YES
+    EXTRACT_STATIC         = YES
+    GENERATE_LATEX         = NO
+
+To document the program:
+    % doxygen Doxyfile
+*/
+
+/*
+To test the program:
+    % ls /usr/include/cppunit/
+    ...
+    TestFixture.h
+    ...
+    % locate libcppunit.a
+    /usr/lib/libcppunit.a
+    % g++ -lcppunit -ldl -pedantic -std=c++0x -Wall Collatz.c++ TestCollatz.c++ -o TestCollatz.c++.app
+    % valgrind TestCollatz.c++.app >& TestCollatz.c++.out
+*/

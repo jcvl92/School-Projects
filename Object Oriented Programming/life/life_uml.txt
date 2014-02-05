@@ -1,0 +1,7 @@
+[Life<T>]<>-T vector>[Cell]
+[Life<T>]<>-T vector>[ConwayCell]
+[Life<T>]<>-T vector>[FredkinCell]
+[Handle<T>]->[Cell]
+[Handle<T>]<>-pointer>[AbstractCell]
+[AbstractCell]->[ConwayCell]
+[AbstractCell]->[FredkinCell]

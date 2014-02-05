@@ -1,0 +1,384 @@
+
+  Recent Commits to cs371p-darwin:master
+
+
+      Ready to turn in
+      <https://github.com/jcvl92/cs371p-darwin/commit/373135e259eea74b287b030fe7394a06ace0f7be>
+      Wednesday, April 03, 2013 10:14 PM
+
+m Darwin.h
+m RunDarwin
+m RunDarwin.c++
+m RunDarwin.out
+m TestDarwin
+m TestDarwin.c++
+m TestDarwin.out
+m html/Darwin_8c_09_09.html
+m html/Darwin_8h.html
+m html/Darwin_8h_source.html
+m html/RunDarwin_8c_09_09.html
+m html/TestDarwin_8c_09_09.html
+m html/annotated.html
+m html/classCreature-members.html
+m html/classCreature.html
+m html/classGrid-members.html
+m html/classGrid.html
+m html/classSpecies-members.html
+m html/classSpecies.html
+m html/classes.html
+m html/files.html
+m html/functions.html
+m html/functions_func.html
+m html/functions_vars.html
+m html/globals.html
+m html/globals_defs.html
+m html/globals_enum.html
+m html/globals_eval.html
+m html/globals_func.html
+m html/index.html
+m html/search/all_63.html
+m html/search/all_74.html
+m html/search/functions_63.html
+m html/search/functions_74.html
+m html/structTestDarwin-members.html
+m html/structTestDarwin.html
+
+Ready to turn in
+
+Project is complete and tested(best species doesn't win)
+
+
+      Additional tests added
+      <https://github.com/jcvl92/cs371p-darwin/commit/d5762733d7c5bb2d4d5c91ec5a01bbed20956dfd>
+      Wednesday, April 03, 2013 10:03 PM
+
+m RunDarwin
+m RunDarwin.c++
+m RunDarwin.out
+m TestDarwin.c++
+
+Additional tests added
+
+Additional unit tests added.
+
+
+      Doxygen
+      <https://github.com/jcvl92/cs371p-darwin/commit/b7490e68bfacd0280d8a7d2da9abf59676b2dfc0>
+      Wednesday, April 03, 2013 9:01 PM
+
++ Doxyfile
+- best.txt
++ html/Darwin_8c_09_09.html
++ html/Darwin_8h.html
++ html/Darwin_8h_source.html
++ html/RunDarwin_8c_09_09.html
++ html/TestDarwin_8c_09_09.html
++ html/annotated.html
++ html/classCreature-members.html
++ html/classCreature.html
++ html/classGrid-members.html
++ html/classGrid.html
++ html/classSpecies-members.html
++ html/classSpecies.html
++ html/classes.html
++ html/doxygen.css
++ html/doxygen.png
++ html/files.html
++ html/functions.html
++ html/functions_func.html
++ html/functions_vars.html
++ html/globals.html
++ html/globals_defs.html
++ html/globals_enum.html
++ html/globals_eval.html
++ html/globals_func.html
++ html/index.html
++ html/installdox
++ html/search/all_63.html
++ html/search/all_64.html
++ html/search/all_65.html
++ html/search/all_67.html
++ html/search/all_68.html
++ html/search/all_69.html
++ html/search/all_6c.html
++ html/search/all_6d.html
++ html/search/all_6e.html
++ html/search/all_70.html
++ html/search/all_72.html
++ html/search/all_73.html
++ html/search/all_74.html
++ html/search/all_77.html
++ html/search/all_78.html
++ html/search/all_79.html
++ html/search/classes_63.html
++ html/search/classes_67.html
++ html/search/classes_73.html
++ html/search/classes_74.html
++ html/search/close.png
++ html/search/defines_70.html
++ html/search/enums_64.html
++ html/search/enums_67.html
++ html/search/enumvalues_63.html
++ html/search/enumvalues_65.html
++ html/search/enumvalues_6e.html
++ html/search/enumvalues_73.html
++ html/search/enumvalues_77.html
++ html/search/files_64.html
++ html/search/files_72.html
++ html/search/files_74.html
++ html/search/functions_63.html
++ html/search/functions_67.html
++ html/search/functions_68.html
++ html/search/functions_69.html
++ html/search/functions_6c.html
++ html/search/functions_6d.html
++ html/search/functions_70.html
++ html/search/functions_72.html
++ html/search/functions_73.html
++ html/search/functions_74.html
++ html/search/nomatches.html
++ html/search/search.css
++ html/search/search.js
++ html/search/search.png
++ html/search/variables_63.html
++ html/search/variables_64.html
++ html/search/variables_67.html
++ html/search/variables_6c.html
++ html/search/variables_6d.html
++ html/search/variables_70.html
++ html/search/variables_78.html
++ html/search/variables_79.html
++ html/structTestDarwin-members.html
++ html/structTestDarwin.html
++ html/tab_b.gif
++ html/tab_l.gif
++ html/tab_r.gif
++ html/tabs.css
+
+Doxygen
+
+Ran Doxygen on the program.
+
+
+      Documentation finished
+      <https://github.com/jcvl92/cs371p-darwin/commit/c8d7ca241e3e20ef583dea293a5de372dabc6be5>
+      Wednesday, April 03, 2013 8:51 PM
+
+m Darwin.h
+
+Documentation finished
+
+Finished documenting the .h file.
+
+
+      Commenting
+      <https://github.com/jcvl92/cs371p-darwin/commit/c5e86ec8148531a7112ee78b5f0a4252dba462d9>
+      Wednesday, April 03, 2013 7:27 PM
+
+m Darwin.h
+- RunDarwin100.out
+
+Commenting
+
+Commenting functions.
+
+
+      Program finished
+      <https://github.com/jcvl92/cs371p-darwin/commit/8a11259bdce06f48b4732d56fd4aebf28d164bf3>
+      Wednesday, April 03, 2013 6:11 PM
+
+m RunDarwin
+m RunDarwin.c++
+m RunDarwin.out
++ RunDarwin100.out
+m TestDarwin
+m TestDarwin.c++
+m TestDarwin.out
+
+Program finished
+
+Program finished, just need to document now.
+
+
+      Added tests
+      <https://github.com/jcvl92/cs371p-darwin/commit/1330dece5d6b2c78c1e0f90b16f0710efd8002b6>
+      Wednesday, April 03, 2013 5:32 PM
+
+m RunDarwin
+m RunDarwin.c++
+m TestDarwin.c++
+m makefile
+
+Added tests
+
+Added unit test code.
+
+
+      All tests passed
+      <https://github.com/jcvl92/cs371p-darwin/commit/d5ff7374cf321e3baa59ae0051780343e3a914e5>
+      Wednesday, April 03, 2013 4:25 PM
+
+m RunDarwin
+m RunDarwin.c++
+m RunDarwin.out
+
+All tests passed
+
+The program passes all tests.
+
+
+      A few changes
+      <https://github.com/jcvl92/cs371p-darwin/commit/4e807d360f842a9168f74fac6a6141c4ca747aa2>
+      Wednesday, April 03, 2013 4:16 PM
+
+m RunDarwin
+m RunDarwin.c++
+m RunDarwin.out
+m TestDarwin
+m TestDarwin.c++
+m makefile
+
+A few changes
+
+
+      UML diagram
+      <https://github.com/jcvl92/cs371p-darwin/commit/47ac9a38f4a5ac3a005bdcfc0b9355819b94d354>
+      Wednesday, April 03, 2013 11:39 AM
+
++ Darwin.pdf
++ darwingram.txt
+
+UML diagram
+
+Added the pdf of the UML diagram.
+
+
+      Some more unit tests.
+      <https://github.com/jcvl92/cs371p-darwin/commit/2823796ae1094377e92b385ccff9d12d92fe6cd2>
+      Wednesday, April 03, 2013 11:35 AM
+
+m TestDarwin.c++
+
+Some more unit tests.
+
+Wrote some more unit test code.
+
+
+      Some unit tests
+      <https://github.com/jcvl92/cs371p-darwin/commit/8c8dbf28bdb060a8bffaf39aaa43056116fd736d>
+      Wednesday, April 03, 2013 11:10 AM
+
++ TestDarwin
+m TestDarwin.c++
+m makefile
+
+Some unit tests
+
+Wrote some unit tests.
+
+
+      Further testing
+      <https://github.com/jcvl92/cs371p-darwin/commit/64f08c6f908e7625544b914b29ed05b3eb2a4cad>
+      Wednesday, April 03, 2013 10:40 AM
+
+m Darwin.c++
+m RunDarwin
+m RunDarwin.c++
+m RunDarwin.out
+
+Further testing
+
+Wrote some more test code. Still don't know why it doesn't pass a diff
+with the tests in the public repo.
+
+
+      Various fixes
+      <https://github.com/jcvl92/cs371p-darwin/commit/5d78a0025fa120f545607903f028a32260a63a58>
+      Wednesday, April 03, 2013 5:14 AM
+
+m Darwin.c++
+m RunDarwin
+m RunDarwin.c++
+m RunDarwin.out
+
+Various fixes
+
+Fixed a few random errors and wrote some more test code.
+
+
+      Large test runs
+      <https://github.com/jcvl92/cs371p-darwin/commit/529801c8dcc2ddae6aeb116f0d69801d6f8200b3>
+      Wednesday, April 03, 2013 4:13 AM
+
+m Darwin.c++
+m RunDarwin
+m RunDarwin.c++
+m RunDarwin.out
+m makefile
+
+Large test runs
+
+Large test runs. Still need to check it again the public repo.
+
+
+      Wrote large test
+      <https://github.com/jcvl92/cs371p-darwin/commit/d62612a83a30e87198299f0c6133f9c18a5e8a65>
+      Wednesday, April 03, 2013 3:48 AM
+
+m Darwin.h
+m RunDarwin.c++
+
+Wrote large test
+
+Small fixes to code.
+
+
+      Converted from reference
+      <https://github.com/jcvl92/cs371p-darwin/commit/0af05bdbf83f21d605d7a51071f297d9bf7c2edb>
+      Wednesday, April 03, 2013 3:39 AM
+
+m Darwin.c++
+m Darwin.h
+m RunDarwin
+m RunDarwin.c++
+
+Converted from reference
+
+Changed the grid to handle creatures by value and made the turn checking
+more robust.
+
+
+      Pre-changing from reference
+      <https://github.com/jcvl92/cs371p-darwin/commit/c425c82ea8a0a313b0dbf8e2396e8200006b0e80>
+      Wednesday, April 03, 2013 2:27 AM
+
+m RunDarwin.c++
+
+Pre-changing from reference
+
+
+      Fixed infection issue
+      <https://github.com/jcvl92/cs371p-darwin/commit/abd5a8ab848239861d58aebaa97f074bc3a50780>
+      Wednesday, April 03, 2013 1:37 AM
+
+m Darwin.c++
+m RunDarwin
+m RunDarwin.c++
+
+Fixed infection issue
+
+Fixed infection so that the direction is not lost when infecting.
+
+
+      XY fixed
+      <https://github.com/jcvl92/cs371p-darwin/commit/54832c3edcad0908f4e415249d01c85d9c5b4fbd>
+      Wednesday, April 03, 2013 1:00 AM
+
+m Darwin.c++
+m RunDarwin
+m RunDarwin.c++
+
+XY fixed
+
+fixed grid location problems arising from X and Y being mixed up a lot.
+

@@ -1,0 +1,305 @@
+
+  Recent Commits to cs371p-voting:master
+
+
+      Final final commit
+      <https://github.com/jcvl92/cs371p-voting/commit/76a0ef777d1f071e535fa25cb21f992716226c83>
+      Wednesday, February 13, 2013 6:58 PM
+
+m TestVoting.out
++ Voting.log
++ Voting.zip
+
+Final final commit
+
+The true final commit before turning in.
+
+
+      Final commit
+      <https://github.com/jcvl92/cs371p-voting/commit/fde65f9b845702469a57f9cc7622efc4c2886183>
+      Wednesday, February 13, 2013 6:50 PM
+
++ Doxyfile
+m RunVoting.in
+m RunVoting.out
+m TestVoting.c++
+m Voting.c++
+m Voting.h
++ html/RunVoting_8c_09_09.html
++ html/TestVoting_8c_09_09.html
++ html/Voting_8c_09_09.html
++ html/Voting_8h.html
++ html/Voting_8h_source.html
++ html/annotated.html
++ html/classes.html
++ html/doxygen.css
++ html/doxygen.png
++ html/files.html
++ html/functions.html
++ html/functions_func.html
++ html/functions_vars.html
++ html/globals.html
++ html/globals_func.html
++ html/index.html
++ html/installdox
++ html/search/all_63.html
++ html/search/all_69.html
++ html/search/all_6d.html
++ html/search/all_6e.html
++ html/search/all_72.html
++ html/search/all_74.html
++ html/search/all_76.html
++ html/search/classes_63.html
++ html/search/classes_74.html
++ html/search/close.png
++ html/search/files_72.html
++ html/search/files_74.html
++ html/search/files_76.html
++ html/search/functions_63.html
++ html/search/functions_6d.html
++ html/search/functions_74.html
++ html/search/functions_76.html
++ html/search/nomatches.html
++ html/search/search.css
++ html/search/search.js
++ html/search/search.png
++ html/search/variables_69.html
++ html/search/variables_6e.html
++ html/search/variables_76.html
++ html/structCandidate-members.html
++ html/structCandidate.html
++ html/structTestVoting-members.html
++ html/structTestVoting.html
++ html/tab_b.gif
++ html/tab_l.gif
++ html/tab_r.gif
++ html/tabs.css
+m makefile
+
+Final commit
+
+Last commit before creating the log and turning in.
+
+
+      Created the updated UVA file
+      <https://github.com/jcvl92/cs371p-voting/commit/5885130b0cafc3be55259ad71eff9f0ebe98e387>
+      Wednesday, February 13, 2013 5:55 PM
+
+m UVaVoting.c++
+
+Created the updated UVA file
+
+Updated the UVA file, it works in UVA now.
+
+
+      Fixed a fatal error
+      <https://github.com/jcvl92/cs371p-voting/commit/65af7703415c31014efae793b5cb70eb3103e485>
+      Wednesday, February 13, 2013 5:47 PM
+
+m RunVoting.in.fi
+m UVaVoting.c++
+m Voting.c++
++ Voting.c++.save
+m Voting.h
+
+Fixed a fatal error
+
+Finally fixed the error of not truely taking candidates out of the race.
+
+
+      tests for you
+      <https://github.com/jcvl92/cs371p-voting/commit/0691cdd0aa6259041f99d8654a299a978cc0f095>
+      Wednesday, February 13, 2013 2:56 PM
+
++ RunVoting.in.fi
++ RunVoting.out.fi
+
+tests for you
+
+
+      Fixed Test cases
+      <https://github.com/jcvl92/cs371p-voting/commit/193fd7790ac1613b9e71a8821711d2dfe8d68223>
+      Wednesday, February 13, 2013 2:54 PM
+
+m TestVoting.c++
+
+Fixed Test cases
+
+sa22896
+
+
+      Finished Unit tests
+      <https://github.com/jcvl92/cs371p-voting/commit/0e08ffa9edffed0685cd7a142a0d3ce365e841ef>
+      Wednesday, February 13, 2013 11:36 AM
+
+m TestVoting.c++
+
+Finished Unit tests
+
+there are still mistakes in test solve sa22896
+
+
+      Finished adding all acceptance tests
+      <https://github.com/jcvl92/cs371p-voting/commit/92484ddfae1b32b6f289ae666fde09b4e0e0148d>
+      Wednesday, February 13, 2013 10:30 AM
+
+m RunVoting.in
+
+Finished adding all acceptance tests
+
+sa22896
+
+
+      Fixed a subtle error
+      <https://github.com/jcvl92/cs371p-voting/commit/262983c26ff98ad4d8e5e03fb7775fc66a8bdea4>
+      Wednesday, February 13, 2013 2:53 AM
+
+m RunVoting
+m UVaVoting.c++
+m Voting.c++
+m makefile
+
+Fixed a subtle error
+
+Fixed a subtle runtime error when looking for the loser.
+
+
+      UVaVoting.c++
+      <https://github.com/jcvl92/cs371p-voting/commit/3d7458275ab2d111bb54953bfba4f28f2a1dbb21>
+      Wednesday, February 13, 2013 12:25 AM
+
++ UVaVoting.c++
+
+UVaVoting.c++
+
+Created the UVA submission file.
+
+
+      Unit tests complete
+      <https://github.com/jcvl92/cs371p-voting/commit/6aa614200bddcc136adfd3411f789972d1155f89>
+      Tuesday, February 12, 2013 7:24 PM
+
+m TestVoting.c++
+m Voting.c++
+
+Unit tests complete
+
+Fixed the unit test file and corrected errors.
+
+
+      TestVoting fixed
+      <https://github.com/jcvl92/cs371p-voting/commit/3b8f7617621233b9f02331f7f0115f79e54f2215>
+      Tuesday, February 12, 2013 7:00 PM
+
++ TestVoting
+m TestVoting.c++
+m makefile
+
+TestVoting fixed
+
+Fixed some issues in the TestVoting.c++ file.
+
+
+      Added unit cases to TestVoting
+      <https://github.com/jcvl92/cs371p-voting/commit/ceebaae54d2464c8cc7fbfd73727830bfdb0b0c2>
+      Tuesday, February 12, 2013 8:38 PM
+
+m TestVoting.c++
+
+Added unit cases to TestVoting
+
+sa22896
+
+
+      Fixed logic errors
+      <https://github.com/jcvl92/cs371p-voting/commit/bea301f1f51654819a6c92d9ececd16d31c3dbe2>
+      Tuesday, February 12, 2013 6:33 PM
+
+m RunVoting
+m RunVoting.in
+m RunVoting.out
+m Voting.c++
+
+Fixed logic errors
+
+Fixed a few logic errors when reallocating votes.
+
+
+      Cleaned the output up
+      <https://github.com/jcvl92/cs371p-voting/commit/db4a6019dd8e4c6193ad97e992d4948af916e199>
+      Tuesday, February 12, 2013 5:45 PM
+
+m RunVoting
+m RunVoting.out
+m Voting.c++
+
+Cleaned the output up
+
+Commented out debug outputs and added newlines between winners of cases.
+
+
+      Fixed voting_determineWinner()
+      <https://github.com/jcvl92/cs371p-voting/commit/819922863b26c70e1dac92853586318b82950ca1>
+      Tuesday, February 12, 2013 5:34 PM
+
+m RunVoting
+m RunVoting.out
+m Voting.c++
+
+Fixed voting_determineWinner()
+
+Fixed all errors in the determination code, it now returns the correct
+winner are far as we know.
+
+
+      Fixed a segmentation fault
+      <https://github.com/jcvl92/cs371p-voting/commit/e97be860d94c5e7bc64730581f522f6286d0def4>
+      Tuesday, February 12, 2013 5:17 PM
+
+m RunVoting
+m RunVoting.out
+m TestVoting.c++
+m Voting.c++
+
+Fixed a segmentation fault
+
+Fixed a seg fault in the reallocation of the loser's votes.
+
+
+      Debugging changes
+      <https://github.com/jcvl92/cs371p-voting/commit/3b48cf624d56da6a556c6f49b67151106e85ddbd>
+      Tuesday, February 12, 2013 4:58 PM
+
+m RunVoting
+m RunVoting.in
+m RunVoting.out
+m Voting.c++
+m makefile
+
+Debugging changes
+
+Fixed a few various logic errors.
+
+
+      Added read unit tests
+      <https://github.com/jcvl92/cs371p-voting/commit/125542a739c05db2ce60693be96969634a55f3a7>
+      Tuesday, February 12, 2013 4:15 PM
+
+m TestVoting.c++
+
+Added read unit tests
+
+sa22896
+
+
+      Fixed voting_determineWinner()
+      <https://github.com/jcvl92/cs371p-voting/commit/3a0fb474b443cb96f8207d5418855a6b7479490d>
+      Tuesday, February 12, 2013 4:11 PM
+
+m RunVoting
+m Voting.c++
+
+Fixed voting_determineWinner()
+
+Fixed the reallocation algorithm.
+
